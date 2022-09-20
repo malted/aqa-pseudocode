@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"format": "prettier --write .",
+		"run": "deno run --allow-read src/index.ts"
+	},
+	"devDependencies": {
+		"prettier": "^2.7.1"
+	}
+}
